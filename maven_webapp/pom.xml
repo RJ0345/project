@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.lti</groupId>
+  <artifactId>maven_webapp</artifactId>
+  <version>3.0-PRO</version>
+  <packaging>war</packaging>
+  <name>Maven Web App</name>
+  <description>web application</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.oracle</groupId>
+  		<artifactId>ojdbc8</artifactId>
+  		<version>11.2.0</version>
+  	</dependency>
+  </dependencies>
+</project>
